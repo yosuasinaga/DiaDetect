@@ -115,7 +115,7 @@ with tab1:
 
     st.write("## **Fakta Menarik Tentang Diabetes**")
     st.write("- Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**.")
-    <a href="https://diabetesatlas.org/data-by-location/country/indonesia/" target="_blank" style="text-decoration: none; color: black;">Diabetes country report 2000 — 2050</a>
+    <a href="https://diabetesatlas.org/data-by-location/country/indonesia/" target="_blank" style="text-decoration: none; color: black;">Diabetes country report 2000 - 2050</a>
     st.write("- Diperkirakan **236.711 orang** di Indonesia meninggal akibat komplikasi diabetes pada usia 20–79 tahun.")
     <a href="https://indonesia.go.id/kategori/editorial/8401/www.indonesia.go.id" target="_blank" style="text-decoration: none; color: black;">Cegah Dini Ancaman Diabetes</a>
     st.write("- Prevalensi diabetes dapat meningkat menjadi **16,09%** pada 2045, dengan jumlah kasus diperkirakan mencapai **40,7 juta**.")
