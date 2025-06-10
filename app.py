@@ -114,16 +114,16 @@ with tab1:
     """)
 
     st.write("## **Fakta Menarik Tentang Diabetes**")
-    st.write("- Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**.")
+    st.write("- Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20-79 tahun, dengan prevalensi **11,3%**.")
     <a href="https://diabetesatlas.org/data-by-location/country/indonesia/" target="_blank" style="text-decoration: none; color: black;">Diabetes country report 2000 - 2050</a>
-    st.write("- Diperkirakan **236.711 orang** di Indonesia meninggal akibat komplikasi diabetes pada usia 20–79 tahun.")
+    st.write("- Diperkirakan **236.711 orang** di Indonesia meninggal akibat komplikasi diabetes pada usia 20-79 tahun.")
     <a href="https://indonesia.go.id/kategori/editorial/8401/www.indonesia.go.id" target="_blank" style="text-decoration: none; color: black;">Cegah Dini Ancaman Diabetes</a>
     st.write("- Prevalensi diabetes dapat meningkat menjadi **16,09%** pada 2045, dengan jumlah kasus diperkirakan mencapai **40,7 juta**.")
     <a href="https://diabetes-indonesia.net/2024/08/proyeksi-morbiditas-dan-mortalitas-diabetes-hingga-2045-di-indonesia-berdasarkan-faktor-risiko-dan-program-pencegahan-dan-pengendalian-ptm-2/" target="_blank" style="text-decoration: none; color: black;">Proyeksi Morbiditas dan Mortalitas Diabetes hingga 2045 di Indonesia</a>
     st.write("- Sekitar **73,7%** penderita diabetes di Indonesia tidak terdiagnosis, sehingga tidak mendapatkan pengobatan yang tepat.")
     <a href="https://indonesia.go.id/kategori/editorial/8401/www.indonesia.go.id" target="_blank" style="text-decoration: none; color: black;">Cegah Dini Ancaman Diabetes</a>
 
-    - Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**.
+    - Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20-79 tahun, dengan prevalensi **11,3%**.
     - Di **Indonesia**, lebih dari **10% populasi dewasa** mengalami diabetes atau prediabetes.  
     - Faktor risiko diabetes meliputi **usia**, **obesitas**, **kurangnya aktivitas fisik**, serta **pola makan yang tidak sehat**.  
     - Diabetes yang tidak terkontrol dapat menyebabkan masalah serius seperti **kebutaan**, **penyakit jantung**, **stroke**, dan **kerusakan ginjal**.
@@ -231,13 +231,13 @@ with tab3:
 
     Model klasifikasi yang digunakan dikembangkan dalam **klasifikasi multi-kelas** (*tidak diabetes, prediabetes, diabetes*). Untuk meningkatkan performa, model dituning dengan metode **hyperparameter tuning** dan evaluasi dilakukan dengan berbagai metrik:
 
-    - **Akurasi** – untuk mengukur proporsi prediksi yang benar  
-    - **Presisi** – untuk mengukur ketepatan prediksi positif  
-    - **Recall** – untuk mengukur sensitivitas terhadap kasus positif  
-    - **F1-Score** – gabungan presisi dan recall sebagai metrik keseimbangan  
+    - **Akurasi** - untuk mengukur proporsi prediksi yang benar  
+    - **Presisi** - untuk mengukur ketepatan prediksi positif  
+    - **Recall** - untuk mengukur sensitivitas terhadap kasus positif  
+    - **F1-Score** - gabungan presisi dan recall sebagai metrik keseimbangan  
 
     Dataset yang digunakan adalah *Behavioral Risk Factor Surveillance System (BRFSS) 2015* yang tersedia secara publik di Kaggle:  
-    - [**BRFSS Diabetes Dataset – Kaggle**](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+    - [**BRFSS Diabetes Dataset - Kaggle**](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
     Seluruh model disimpan dalam format **`.h5`** untuk digunakan pada aplikasi ini secara lokal, dan diproses menggunakan environment **Google Colab**.
     """)
@@ -310,7 +310,7 @@ with tab3:
     with col2:
         st.write("""
         ### **Yosua Samuel Edlyn Sinaga**  
-        **Mahasiswa Teknik Informatika – Universitas Brawijaya**
+        **Mahasiswa Teknik Informatika - Universitas Brawijaya**
         """)
         col1, col2, col3 = st.columns([0.1, 0.1, 1])
         with col1:
@@ -338,7 +338,7 @@ with tab3:
     with col2:
         st.write("""
         ### **Fachrul Rozi Rangkuti**  
-        **Mahasiswa Teknik Informatika – Politeknik Lhokseumawe Aceh**
+        **Mahasiswa Teknik Informatika - Politeknik Lhokseumawe Aceh**
         """)
         col1, col2, col3 = st.columns([0.1, 0.1, 1])
         with col1:
