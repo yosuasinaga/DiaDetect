@@ -252,12 +252,12 @@ with tab3:
     """)
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/Python.svg", width=50)
+        st.image("assets/python.svg", width=50)
     with col2:
         st.write("**Python**: Bahasa pemrograman utama untuk seluruh proses pengolahan data dan pembuatan model machine learning.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/TensorFlow.svg", width=50)
+        st.image("assets/tensorflow.svg", width=50)
     with col2:
         st.write("**TensorFlow**: Framework deep learning yang digunakan untuk membangun dan menyimpan model klasifikasi risiko diabetes.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
@@ -267,17 +267,17 @@ with tab3:
         st.write("**Scikit-Learn**: Digunakan untuk preprocessing data, evaluasi metrik, dan transformasi standar (StandardScaler).")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/Pandas.svg", width=50)
+        st.image("assets/pandas.svg", width=50)
     with col2:
         st.write("**Pandas**: Library manipulasi data untuk pengolahan dan penyajian dataset tabular.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/NumPy.svg", width=50)
+        st.image("assets/numpy.svg", width=50)
     with col2:
         st.write("**NumPy**: Library numerik pendukung manipulasi array dan vektor dalam proses training dan inferensi.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/Streamlit.svg", width=50)
+        st.image("assets/streamlit.svg", width=50)
     with col2:
         st.write("**Streamlit**: Framework Python yang digunakan untuk membangun aplikasi web interaktif berbasis model prediksi.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
@@ -287,7 +287,7 @@ with tab3:
         st.write("**Google Colab**: Platform cloud notebook untuk proses pengembangan model dan eksperimen selama pelatihan.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/Kaggle.svg", width=50)
+        st.image("assets/kaggle.svg", width=50)
     with col2:
         st.write("**Kaggle BRFSS2015 Dataset**: Dataset utama yang digunakan untuk melatih model, diambil dari sumber resmi CDC.")
 
