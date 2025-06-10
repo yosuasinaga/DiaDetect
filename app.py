@@ -115,7 +115,7 @@ with tab1:
 
     st.write("""
     ## **Fakta Menarik Tentang Diabetes**  
-    - **Diabetes** adalah salah satu **penyakit kronis** yang berkembang pesat di dunia, dengan lebih dari **400 juta orang** yang menderita diabetes.  
+    - Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**. ([Diabetes country report 2000 — 2050](https://diabetesatlas.org/data-by-location/country/indonesia/)) 
     - Di **Indonesia**, lebih dari **10% populasi dewasa** mengalami diabetes atau prediabetes.  
     - Faktor risiko diabetes meliputi **usia**, **obesitas**, **kurangnya aktivitas fisik**, serta **pola makan yang tidak sehat**.  
     - Diabetes yang tidak terkontrol dapat menyebabkan masalah serius seperti **kebutaan**, **penyakit jantung**, **stroke**, dan **kerusakan ginjal**.
