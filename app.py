@@ -262,9 +262,9 @@ with tab3:
         st.write("**TensorFlow**: Framework deep learning yang digunakan untuk membangun dan menyimpan model klasifikasi risiko diabetes.")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
-        st.image("assets/Scikit-Learn.svg", width=50)
+        st.image("assets/scikit-learn.svg", width=50)
     with col2:
-        st.write("**scikit-learn**: Digunakan untuk preprocessing data, evaluasi metrik, dan transformasi standar (StandardScaler).")
+        st.write("**Scikit-Learn**: Digunakan untuk preprocessing data, evaluasi metrik, dan transformasi standar (StandardScaler).")
     col1, col2 = st.columns([1, 12], vertical_alignment="center")
     with col1:
         st.image("assets/Pandas.svg", width=50)
