@@ -113,13 +113,21 @@ with tab1:
     Proyek ini bertujuan untuk menghadirkan solusi nyata atas permasalahan keterlambatan **deteksi dini risiko diabetes** di masyarakat. Melalui pemanfaatan teknologi **machine learning** dan data kesehatan yang valid, kami ingin membangun **model klasifikasi risiko dengan akurasi tinggi** untuk mengidentifikasi kondisi **tidak diabetes**, **prediabetes**, dan **diabetes**. Diharapkan, aplikasi ini dapat memberikan kontribusi nyata dalam mendukung **pengambilan keputusan preventif** oleh pengguna dan praktisi kesehatan.
     """)
 
-    st.write("""
-    ## **Fakta Menarik Tentang Diabetes**  
-    - Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**. ([Diabetes country report 2000 — 2050](https://diabetesatlas.org/data-by-location/country/indonesia/)) 
+    st.write("## **Fakta Menarik Tentang Diabetes**")
+    st.write("- Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**.")
+    <a href="https://diabetesatlas.org/data-by-location/country/indonesia/" target="_blank" style="text-decoration: none; color: black;">Diabetes country report 2000 — 2050</a>
+    st.write("- Diperkirakan **236.711 orang** di Indonesia meninggal akibat komplikasi diabetes pada usia 20–79 tahun.")
+    <a href="https://indonesia.go.id/kategori/editorial/8401/www.indonesia.go.id" target="_blank" style="text-decoration: none; color: black;">Cegah Dini Ancaman Diabetes</a>
+    st.write("- Prevalensi diabetes dapat meningkat menjadi **16,09%** pada 2045, dengan jumlah kasus diperkirakan mencapai **40,7 juta**.")
+    <a href="https://diabetes-indonesia.net/2024/08/proyeksi-morbiditas-dan-mortalitas-diabetes-hingga-2045-di-indonesia-berdasarkan-faktor-risiko-dan-program-pencegahan-dan-pengendalian-ptm-2/" target="_blank" style="text-decoration: none; color: black;">Proyeksi Morbiditas dan Mortalitas Diabetes hingga 2045 di Indonesia</a>
+    st.write("- Sekitar **73,7%** penderita diabetes di Indonesia tidak terdiagnosis, sehingga tidak mendapatkan pengobatan yang tepat.")
+    <a href="https://indonesia.go.id/kategori/editorial/8401/www.indonesia.go.id" target="_blank" style="text-decoration: none; color: black;">Cegah Dini Ancaman Diabetes</a>
+
+    - Indonesia diperkirakan memiliki sekitar **20,4 juta penderita diabetes** pada usia 20–79 tahun, dengan prevalensi **11,3%**.
     - Di **Indonesia**, lebih dari **10% populasi dewasa** mengalami diabetes atau prediabetes.  
     - Faktor risiko diabetes meliputi **usia**, **obesitas**, **kurangnya aktivitas fisik**, serta **pola makan yang tidak sehat**.  
     - Diabetes yang tidak terkontrol dapat menyebabkan masalah serius seperti **kebutaan**, **penyakit jantung**, **stroke**, dan **kerusakan ginjal**.
-    """)
+    
 
     st.write("""
     ## **Contoh Kasus Prediksi dan Manfaat**
