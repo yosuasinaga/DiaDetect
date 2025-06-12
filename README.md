@@ -14,13 +14,14 @@ DiaDetect memanfaatkan model machine learning untuk memprediksi kemungkinan sese
 ## 📁 Struktur Proyek
 ```
 DiaDetect/
-├── 📁 assets/                     # Berisi file pendukung seperti gambar atau dokumentasi tambahan
-├── 📄 app.py                      # Aplikasi Streamlit yang menghandle UI dan prediksi
-├── 📄 diabetes\_model.h5           # Model machine learning yang telah dilatih
+├── 📁 assets/  # Berisi file pendukung seperti gambar atau dokumentasi tambahan
+├── 📄 app.py  # Aplikasi Streamlit yang menghandle UI dan prediksi
+├── 📄 diabetes\_model.h5  # Model machine learning yang telah dilatih
 ├── 📄 diabetes\_012\_health\_indicators\_BRFSS2015.csv  # Dataset yang digunakan untuk pelatihan model
-├── 📄 requirements.txt            # Daftar dependensi Python yang diperlukan
-├── 📄 DiaDetect.ipynb             # Notebook Jupyter untuk eksplorasi data dan pengembangan model
-└── 📄 .devcontainer/              # Konfigurasi untuk pengembangan dalam container
+├── 📄 requirements.txt  # Daftar dependensi Python yang diperlukan
+├── 📄 DiaDetect.ipynb  # Notebook Jupyter untuk eksplorasi data dan pengembangan model
+├── 📄 README.md  # Dokumentasi proyek ini
+└── 📄 .devcontainer/  # Konfigurasi untuk pengembangan dalam container
 ```
 
 ## 📊 Kredit Dataset
