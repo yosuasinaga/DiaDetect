@@ -13,6 +13,7 @@ DiaDetect memanfaatkan model machine learning untuk memprediksi kemungkinan sese
 
 ## 📁 Struktur Proyek
 ```
+
 DiaDetect/
 ├── 📁 assets/  # Berisi file pendukung seperti gambar atau dokumentasi tambahan
 ├── 📄 app.py  # Aplikasi Streamlit yang menghandle UI dan prediksi
@@ -22,6 +23,7 @@ DiaDetect/
 ├── 📄 DiaDetect.ipynb  # Notebook Jupyter untuk eksplorasi data dan pengembangan model
 ├── 📄 README.md  # Dokumentasi proyek ini
 └── 📄 .devcontainer/  # Konfigurasi untuk pengembangan dalam container
+
 ```
 
 ## 📊 Kredit Dataset
@@ -29,3 +31,6 @@ Dataset yang digunakan dalam proyek ini diambil dari [Kaggle - Diabetes Health I
 
 ## 🧪 Eksplorasi Data dan Pengembangan Model
 Gunakan Jupyter Notebook `DiaDetect.ipynb` untuk eksplorasi data, visualisasi, dan pengembangan model machine learning. Notebook ini menyediakan langkah-langkah untuk memahami dataset dan membangun model prediksi.
+
+## 🌐 Akses Prototipe
+Anda dapat mengakses prototipe aplikasi DiaDetect secara langsung di [website prototipe DiaDetect](https://diadetect-prototype.streamlit.app/).
